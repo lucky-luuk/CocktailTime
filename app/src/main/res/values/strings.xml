@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CocktailTime</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="find_cocktail">Find your favorite cocktail</string>
+    <string name="note_text_no_momory">No memory made yet. Start make one</string>
+    <string name="preparation">Preparation</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="photo_of_drink">photo of drink</string>
+    <string name="cocktail_inspiration">Cocktail inspiration:</string>
+    <string name="add_ingrident">Add Ingrident</string>
+</resources>
